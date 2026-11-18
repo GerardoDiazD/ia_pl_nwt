@@ -1,0 +1,19 @@
+# Prompts de ejemplo para validar routing IKARO
+
+1) ARQUITECTURA
+#knowledge "En REEF, como se delimitan las fronteras Core/Pais y que convenciones NewTron debo aplicar para disenar un servicio nuevo?"
+
+2) APIs
+#knowledge "Para local-api-esp en REEF, dame checklist de normativas REST/OpenAPI, versionado y estructura de endpoints para un caso de alta de poliza."
+
+3) Back
+#knowledge "En be-nwt/cmn-api, que patron recomiendan para orquestar una exportacion batch con auditoria y manejo de errores?"
+
+4) BBDD
+#knowledge "Para TRON-CMN en pais ESP, que reglas de modelado y PL/SQL aplican para ramo 118 y company 20003 en un despliegue controlado?"
+
+5) Mapeos
+#knowledge "Necesito mapear Host-IDMS-REEF para FICOL y DGTP: campos clave, layouts, validaciones y errores frecuentes en cartera tecnica/CCPP."
+
+6) Transformaciones
+#knowledge "Que reglas corporativas de transformacion y normalizacion debo aplicar para contratos, certificados y suplementos, incluyendo trazabilidad de datos?"
